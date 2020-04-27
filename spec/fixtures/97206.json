@@ -1,0 +1,32 @@
+{
+  "Type": "pollen",
+  "ForecastDate": "2020-04-27T00:00:00-04:00",
+  "Location": {
+    "ZIP": "97206",
+    "City": "PORTLAND",
+    "State": "OR",
+    "periods": [
+      {
+        "Period": "2020-04-26T22:58:09.743",
+        "Index": 8.30
+      },
+      {
+        "Period": "2020-04-27T22:58:09.743",
+        "Index": 8.00
+      },
+      {
+        "Period": "2020-04-28T22:58:09.743",
+        "Index": 3.90
+      },
+      {
+        "Period": "2020-04-29T22:58:09.743",
+        "Index": 5.00
+      },
+      {
+        "Period": "2020-04-30T22:58:09.743",
+        "Index": 6.70
+      }
+    ],
+    "DisplayLocation": "Portland, OR"
+  }
+}
